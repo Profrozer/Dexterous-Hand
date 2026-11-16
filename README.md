@@ -7,6 +7,8 @@
 # OLD Experimental Design 
 (Newer version wont be using this anymore):
 ---
+**FRONT VIEW
 ![FRONT VIEW](Images/oldv1.JPG)
-
+---
+**BACK VIEW
 ![BACK VIEW](Images/oldv1back.JPG)
