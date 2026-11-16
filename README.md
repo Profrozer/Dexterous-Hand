@@ -1,14 +1,27 @@
-# Dexterous-Hand
----
-- Designing a dexterous hand with cheaper cost that applies precision on each joint from sketch without modifying any opensource model
-- Designed a basic finger for experiment to understand how the mechanism works 
-- I will do tendon driven - 2 way routes
+# 🦾 Dexterous Hand
 
-# OLD Experimental Design 
-(Newer version wont be using this anymore):
+A cost-effective, custom-designed dexterous robotic hand featuring individual joint precision, built entirely from scratch without modifying any existing open-source models.
+
 ---
-**FRONT VIEW**
-![FRONT VIEW](Images/oldv1.JPG)
+
+## 🎯 Project Overview
+
+- **Cost-Effective:** Designed to significantly lower production costs while maintaining functionality.
+- **Joint Precision:** Applies precise control to each individual joint.
+- **Custom Architecture:** Built completely from initial sketches rather than adapting open-source models.
+- **Actuation Mechanism:** Tendon-driven system utilizing **2-way routing**.
+
+## 🧪 Prototyping & Development
+
+- Designed and tested a basic single-finger prototype to understand mechanism kinematics and behavior.
+- Transitioning away from initial experimental iterations toward an improved, refined architecture.
+
 ---
-**BACK VIEW***
-![BACK VIEW](Images/oldv1back.JPG)
+
+## ⚠️ Archived / Old Experimental Design
+
+> 💡 **Note:** Newer versions of the project have deprecated this specific design.
+
+| Front View | Back View |
+| :---: | :---: |
+| ![Front View](Images/oldv1.JPG) | ![Back View](Images/oldv1back.JPG) |
