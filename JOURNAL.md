@@ -21,4 +21,4 @@
   * Created top finger sketch and for the shape of it
   * Added internal bearings and components
 * **Screenshot:**
-  ![Base chassis CAD view](Images/15nov.jpg)
+  ![Base chassis CAD view](Images/15nov.JPG)
