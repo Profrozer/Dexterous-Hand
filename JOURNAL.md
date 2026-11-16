@@ -11,7 +11,7 @@
   * Backlit tunnel does not function properly after 3D printing
   * Redesign the finger joint but still in progress
 * **Screenshot:**
-  ![Top enclosure CAD view](Images/16nov.jpg)
+  ![Top enclosure CAD view](Images/16nov.JPG)
 
 ---
 
