@@ -11,7 +11,7 @@
   * Backlit tunnel does not function properly after 3D printing
   * Redesign the finger joint but still in progress
 * **Screenshot:**
-  ![Top enclosure CAD view](images/16nov.jpg)
+  ![Top enclosure CAD view](Images/16nov.jpg)
 
 ---
 
@@ -21,4 +21,4 @@
   * Created top finger sketch and for the shape of it
   * Added internal bearings and components
 * **Screenshot:**
-  ![Base chassis CAD view](images/15nov.jpg)
+  ![Base chassis CAD view](Images/15nov.jpg)
