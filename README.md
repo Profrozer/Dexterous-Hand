@@ -3,4 +3,6 @@
 - Designed a basic finger for experiment to understand how the mechanism works 
 - I will do tendon driven - 2 way routes
 
-# OLD Experimental Design (Newer version wont be using this anymore):
+# OLD Experimental Design 
+(Newer version wont be using this anymore):
+(Images/16nov.JPG)
