@@ -1,22 +1,14 @@
-# 🦾 Dexterous Hand
-
-A cost-effective, custom-designed dexterous robotic hand featuring individual joint precision, built entirely from scratch without modifying any existing open-source models.
+# Dexterous Hand
+- To achieve and maintain the performance of precision with my own design. Soon will be published for opensource BUT right now it is still in progress. So dont mind first😭
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 - **Cost-Effective:** Designed to significantly lower production costs while maintaining functionality.
 - **Joint Precision:** Applies precise control to each individual joint.
-- **Custom Architecture:** Built completely from initial sketches rather than adapting open-source models.
+- **Custom Architecture:** Built completely from initial sketches rather than modifying any open-source models.
 - **Actuation Mechanism:** Tendon-driven system utilizing **2-way routing**.
-
-## 🧪 Prototyping & Development
-
-- Designed and tested a basic single-finger prototype to understand mechanism kinematics and behavior.
-- Transitioning away from initial experimental iterations toward an improved, refined architecture.
-
----
 
 ## ⚠️ Archived / Old Experimental Design
 
