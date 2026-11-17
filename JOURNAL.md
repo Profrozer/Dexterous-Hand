@@ -9,6 +9,68 @@
 * **What I Worked On:**
   * Redesign the joints and mechanism as the previous ones seems to not work for the best.
 * **Screenshot:**
+  [WILL UPLOAD SOON]---
+## Entry 3 — November 17, 2026
+* **Time Spent:** 2h
+* **What I Worked On:**
+  * Redesign the joints and mechanism as the previous ones seems to not work for the best.
+* **Screenshot:**
+  [WILL UPLOAD SOON]---
+## Entry 3 — November 17, 2026
+* **Time Spent:** 2h
+* **What I Worked On:**
+  * Redesign the joints and mechanism as the previous ones seems to not work for the best.
+* **Screenshot:**
+  [WILL UPLOAD SOON]---
+## Entry 3 — November 17, 2026
+* **Time Spent:** 2h
+* **What I Worked On:**
+  * Redesign the joints and mechanism as the previous ones seems to not work for the best.
+* **Screenshot:**
+  [WILL UPLOAD SOON]---
+## Entry 3 — November 17, 2026
+* **Time Spent:** 2h
+* **What I Worked On:**
+  * Redesign the joints and mechanism as the previous ones seems to not work for the best.
+* **Screenshot:**
+  [WILL UPLOAD SOON]---
+## Entry 3 — November 17, 2026
+* **Time Spent:** 2h
+* **What I Worked On:**
+  * Redesign the joints and mechanism as the previous ones seems to not work for the best.
+* **Screenshot:**
+  [WILL UPLOAD SOON]---
+## Entry 3 — November 17, 2026
+* **Time Spent:** 2h
+* **What I Worked On:**
+  * Redesign the joints and mechanism as the previous ones seems to not work for the best.
+* **Screenshot:**
+  [WILL UPLOAD SOON]---
+## Entry 3 — November 17, 2026
+* **Time Spent:** 2h
+* **What I Worked On:**
+  * Redesign the joints and mechanism as the previous ones seems to not work for the best.
+* **Screenshot:**
+  [WILL UPLOAD SOON]---
+## Entry 3 — November 17, 2026
+* **Time Spent:** 2h
+* **What I Worked On:**
+  * Redesign the joints and mechanism as the previous ones seems to not work for the best.
+* **Screenshot:**
+  [WILL UPLOAD SOON]---
+## Entry 3 — November 17, 2026
+* **Time Spent:** 2h
+* **What I Worked On:**
+  * Redesign the joints and mechanism as the previous ones seems to not work for the best.
+* **Screenshot:**
+  [WILL UPLOAD SOON]
+
+---
+## Entry 3 — November 17, 2026
+* **Time Spent:** 2h
+* **What I Worked On:**
+  * Redesign the joints and mechanism as the previous ones seems to not work for the best.
+* **Screenshot:**
   [WILL UPLOAD SOON]
 
 
