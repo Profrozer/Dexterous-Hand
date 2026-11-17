@@ -1,6 +1,6 @@
 # Dexterous Hand
-- To achieve and maintain the performance of precision with my own design. Soon will be published for opensource BUT right now it is still in progress. So dont mind first😭
-
+- To achieve and maintain the performance of precision with my own design. Soon will be published for opensource BUT right now it is still in progress.
+- My previous progression are not being recorded in here
 ---
 
 ## Project Overview
