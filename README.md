@@ -17,4 +17,5 @@
 | Front View | Back View |
 | :---: | :---: |
 | ![Front View](Images/oldv1.JPG) | ![Back View](Images/oldv1back.JPG) |
+
 | ![Finger Front View](Images/oldv1-1.JPG) | ![Finger Back View](Images/oldv1-1back.JPG) |
