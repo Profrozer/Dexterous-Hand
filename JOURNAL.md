@@ -1,6 +1,6 @@
 # Project Name — CAD Design Journal (New design wont be leaked here until the dexterous hand is fully completed)
 
-**Total Time Logged:** 8h
+**Total Time Logged:** 13h
 **Software:** Autodesk Fusion  
 
 ---
