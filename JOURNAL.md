@@ -18,7 +18,7 @@
 ## Entry 3 — November 17, 2026
 * **Time Spent:** 2h
 * **What I Worked On:**
-# PREVIOUS DESIGN WHICH WONT SHOWN BELOW IS JUST A CONCEPT AND WONT BE USED ANYMORE
+# PREVIOUS DESIGN WHICH WWAS SHOWN BELOW IS JUST A CONCEPT AND WONT BE USED ANYMORE
   * Redesigned the joints and mechanism as the previous ones seems to not work for the best.
 * **Screenshot:**
   [WILL UPLOAD PROGRESS OF TODAY SESSION ONCE DEX HAND IS FULLY COMPLETED]
