@@ -1,15 +1,26 @@
-# Project Name — CAD Design Journal
+# Project Name — CAD Design Journal (New design wont be leaked here until the dexterous hand is fully completed)
 
 **Total Time Logged:** 8h
 **Software:** Autodesk Fusion  
 
 ---
+## Entry 4 — November 18, 2026
+* **Time Spent:** 5h
+* **What I Worked On:**
+  * Worked on the latest finger design
+  * Worked on the tunnel path
+  * Built the finger visual touch
+  * Found a few errors and will work on it tomorrow
+* **Screenshot:**
+  [WILL UPLOAD PROGRESS OF TODAY SESSION ONCE DEX HAND IS FULLY COMPLETED]
+
+---
 ## Entry 3 — November 17, 2026
 * **Time Spent:** 2h
 * **What I Worked On:**
-  * Redesign the joints and mechanism as the previous ones seems to not work for the best.
+  * Redesigned the joints and mechanism as the previous ones seems to not work for the best.
 * **Screenshot:**
-  [WILL UPLOAD SOON]
+  [WILL UPLOAD PROGRESS OF TODAY SESSION ONCE DEX HAND IS FULLY COMPLETED]
 
 ---
 ## Entry 2 — November 16, 2026
