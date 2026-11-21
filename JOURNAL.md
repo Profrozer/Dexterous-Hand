@@ -4,6 +4,14 @@
 **Software:** Autodesk Fusion  
 
 ---
+## Entry 5 — November 20, 2026
+* **Time Spent:** 30mins
+* **What I Worked On:**
+  * Redesigned locks between joints
+* **Screenshot:**
+  [WILL UPLOAD PROGRESS OF TODAY SESSION ONCE DEX HAND IS FULLY COMPLETED]
+
+---
 ## Entry 4 — November 18, 2026
 * **Time Spent:** 5h
 * **What I Worked On:**
