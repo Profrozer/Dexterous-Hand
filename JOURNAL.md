@@ -1,8 +1,16 @@
 # Project Name — CAD Design Journal (New design wont be leaked here until the dexterous hand is fully completed)
 
-**Total Time Logged:** 13h 30mins
+**Total Time Logged:** 14h
 
 **Software:** Autodesk Fusion  
+
+## Entry 6 — November 22, 2026
+* **Time Spent:** 30mins
+* **What I Worked On:**
+  * Chamfered heat insert holes and edited tunnel because of 3d printer accuracy issue
+* **Screenshot:**
+  [WILL UPLOAD PROGRESS OF TODAY SESSION ONCE DEX HAND IS FULLY COMPLETED]
+
 
 ---
 ## Entry 5 — November 20, 2026
