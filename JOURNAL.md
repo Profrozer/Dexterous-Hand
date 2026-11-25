@@ -59,7 +59,7 @@
 ## Entry 3 — November 17, 2026
 * **Time Spent:** 2h
 * **What I Worked On:**
-# Previous designs which were shown below are just my concept but it's too unrealistic | Moved to archive
+# Previous designs which were shown below are just my concepts but it's too unrealistic | Moved to archive
   * Redesigned the joints and mechanism as the previous ones seems to not work for the best.
 * **Screenshot:**
   [WILL UPLOAD PROGRESS OF TODAY SESSION ONCE DEX HAND IS FULLY COMPLETED]
