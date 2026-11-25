@@ -1,7 +1,7 @@
 # Dexterous Hand Design & Building Journal
 * All progression and what I have done will be written in here
 * **NOTE:** I will not share or leak any images, cad files that I have done in the following days till it is fully ready
-**The images that was shown in readme are old and just used for testing how dexterous hand works**
+* **The images that was shown in readme are old and just used for testing how dexterous hand works**
 
 # **Total Time Logged:** 21hrs
 **Software:** Autodesk Fusion  
