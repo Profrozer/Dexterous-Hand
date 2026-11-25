@@ -1,6 +1,6 @@
 # Dexterous Hand
 - To achieve and maintain the performance of precision with my own design. Soon will be published for opensource BUT right now it is still in progress.
-- My previous progression are not being recorded in here
+- You can look my progression through Journal.md. The images shown below were made to learn how the mechanism works.
 ---
 
 ## Project Overview
@@ -12,7 +12,7 @@
 
 ## ⚠️ Archived / Old Experimental Design
 
-> 💡 **Note:** Newer versions of the project have deprecated this specific design.
+> 💡 **Note:** Newer versions of the project have deprecated this specific design. This uses spring retraction method [Old]
 
 | Front View | Back View |
 | :---: | :---: |
