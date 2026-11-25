@@ -3,8 +3,7 @@
 * **NOTE:** I will not share or leak any images, cad files that I have done in the following days till it is fully ready
 **The images that was shown in readme are old and just used for testing how dexterous hand works**
 
-**Total Time Logged:** 21h
-
+# **Total Time Logged:** 21h
 **Software:** Autodesk Fusion  
 
 ## Entry 8 — November 25, 2026
