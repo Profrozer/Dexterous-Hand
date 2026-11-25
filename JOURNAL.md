@@ -1,16 +1,27 @@
 # Project Name — CAD Design Journal (New design wont be leaked here until the dexterous hand is fully completed)
 
-**Total Time Logged:** 20h
+**Total Time Logged:** 21h
 
 **Software:** Autodesk Fusion  
 
-## Entry 7 — November 25, 2026
+## Entry 8 — November 25, 2026
 * **Time Spent:** 6h
 * **What I Worked On:**
   * Printed out prototype of fingers with Ender 3 Pro
   * Finger was too long and is not realistic
   * Remodified the finger and added more details to the finger
   * Found out that finger joints could still be improved
+* **Screenshot:**
+  [WILL UPLOAD PROGRESS OF TODAY SESSION ONCE DEX HAND IS FULLY COMPLETED]
+
+## November 24,2026
+* Doing printer calibration and upscale it😭
+
+## Entry 7 — November 23, 2026
+* **Time Spent:** 1hr
+* **What I Worked On:**
+  * Fixed 3d printer issue and upgraded fan duct as well calibrating my Ender 3 Pro
+  * Redo hole dimension to attach tendon wires
 * **Screenshot:**
   [WILL UPLOAD PROGRESS OF TODAY SESSION ONCE DEX HAND IS FULLY COMPLETED]
 
