@@ -20,7 +20,7 @@
 ## Entry 7 — November 23, 2026
 * **Time Spent:** 1hr
 * **What I Worked On:**
-  * Fixed 3d printer issue and upgraded fan duct as well calibrating my Ender 3 Pro
+  * Fixed 3d printer issue and upgraded fan duct as well calibrating my Ender 3 Pro (Took almost whole day)
   * Redo hole dimension to attach tendon wires
 * **Screenshot:**
   [WILL UPLOAD PROGRESS OF TODAY SESSION ONCE DEX HAND IS FULLY COMPLETED]
