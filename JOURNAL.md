@@ -1,11 +1,11 @@
 # Project Name — CAD Design Journal (New design wont be leaked here until the dexterous hand is fully completed)
 
-**Total Time Logged:** 18h
+**Total Time Logged:** 20h
 
 **Software:** Autodesk Fusion  
 
 ## Entry 7 — November 25, 2026
-* **Time Spent:** 4h
+* **Time Spent:** 6h
 * **What I Worked On:**
   * Printed out prototype of fingers with Ender 3 Pro
   * Finger was too long and is not realistic
