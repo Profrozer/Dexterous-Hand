@@ -4,8 +4,16 @@
 * But all will be revealed in here as said.
 * **Images that was shown in readme are old and just used for testing how dexterous hand works**
 
-# **Total Time Logged:** 21hrs
+# **Total Time Logged:** 1Day & 1hr [25hrs]
 **Software:** Autodesk Fusion  
+
+## Entry 9 — November 27-28, 2026
+* **Time Spent:** 4hrs
+* **What I Worked On:**
+  * Inspect finger and ready to implement into the palm
+  * Next: Thumb design
+* **Screenshot:**
+  [WILL UPLOAD PROGRESS OF TODAY SESSION ONCE DEX HAND IS FULLY COMPLETED]
 
 ## Entry 8 — November 25, 2026
 * **Time Spent:** 6h
